@@ -33,3 +33,4 @@ print("input获取的值:",a*b)
 c = a*b
 print("字数:",len(c))
 # ssdd
+11111
