@@ -27,10 +27,11 @@
 # print(type(()))
 # print(type([]))
 # print(type({}))  
-a = (input("请输入："))
-b = int(input("请输入："))
-print("input获取的值:",a*b)
-c = a*b
-print("字数:",len(c))
-# ssdd
-11111
+# a = (input("请输入："))
+# b = int(input("请输入："))
+# print("两串字符的长度是:",len(a)*len(b))
+
+# 
+# 元组 ，下标：从0开始编号
+p = (1.2,2.3,PPP,ture,false,paste,copy,"赋值","打印","转换")
+print(p[1])
